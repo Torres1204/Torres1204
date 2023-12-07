@@ -26,7 +26,7 @@
 <h2 align="center"> Currently learning</h2>
 <p align="center">
   <a href="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,python,js,linux,bash,github,laravel,docker,visualstudio,vscode,&perline=4" width="500" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,python,js,linux,bash,github,laravel,docker,visualstudio,vscode,php,matlab,java,html,css,latex,bootstrap&perline=4" width="500" />
   </a>
 </p>
 
