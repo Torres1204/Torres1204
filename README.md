@@ -17,7 +17,6 @@
   <li> I really like to teach and transmit my knowledge to other people❤️.</li>
   <li> My favorite programming language is C. </li>
   <li> I really like the Chinese language, i am currently studying HSK3. </li>
-  <li>I DON'T LIKE WEB DEVELOPMENT 😾. </li>
   <li> Lover of animals, mainly guinea pigs🐹. </li>
   <li> I am a PROTECO pre-scholarship 💻. </li>
        
