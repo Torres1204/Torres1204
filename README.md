@@ -13,7 +13,7 @@
 
 <h1 align="center"><img src="https://media3.giphy.com/media/bDtzRbWJOwmInd1DQP/200w.webp?cid=ecf05e47lezq2lufyb611n7pngpgjhzfxs5y10y9n7oy7u0j&ep=v1_stickers_search&rid=200w.webp&ct=s" width="45"> About me</h1>
 <ul>
-  <li> I'm 21 years old 👋. </li>
+  <li> I'm 22 years old 👋. </li>
   <li> I really like to teach and transmit my knowledge to other people❤️.</li>
   <li> My favorite programming language is C. </li>
   <li> I really like the Chinese language, i am currently studying HSK3. </li>
